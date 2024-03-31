@@ -1,0 +1,153 @@
+{
+  "most_rated_songs": [
+    {
+      "album_id": "5aSqHgJXiGReiPlk8BaWre",
+      "album_name": "Kad\u0131n",
+      "artists": [
+        "\u015eebnem Ferah"
+      ],
+      "duration": 268515,
+      "picture": "https://i.scdn.co/image/ab67616d0000b2737387bfdc96c76bcd694b62ff",
+      "rating": 4,
+      "song_id": "3Ommpa2aE0RU3F04BedepA",
+      "song_name": "Bu A\u015fk Fazla Sana",
+      "timestamp": "Mon, 01 May 2023 00:00:00 GMT"
+    },
+    {
+      "album_id": "3kEtdS2pH6hKcMU9Wioob1",
+      "album_name": "Illmatic",
+      "artists": [
+        "Nas"
+      ],
+      "duration": 293973,
+      "picture": "https://i.scdn.co/image/ab67616d0000b273045fc920ecf4f8094888ec26",
+      "rating": 4,
+      "song_id": "0trHOzAhNpGCsGBEu7dOJo",
+      "song_name": "N.Y. State of Mind",
+      "timestamp": "Sun, 01 Oct 2023 00:00:00 GMT"
+    },
+    {
+      "album_id": "3gBVdu4a1MMJVMy6vwPEb8",
+      "album_name": "Pablo Honey",
+      "artists": [
+        "Radiohead"
+      ],
+      "duration": 238640,
+      "picture": "https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95",
+      "rating": 4,
+      "song_id": "70LcF31zb1H0PyJoS1Sx1r",
+      "song_name": "Creep",
+      "timestamp": "Wed, 01 Mar 2023 00:00:00 GMT"
+    },
+    {
+      "album_id": "7aSjaEi3OQ2aZemcJDhMb1",
+      "album_name": "93 'til Infinity",
+      "artists": [
+        "Souls Of Mischief"
+      ],
+      "duration": 286440,
+      "picture": "https://i.scdn.co/image/ab67616d0000b27343969ecfe687484121805478",
+      "rating": 4,
+      "song_id": "0PV1TFUMTBrDETzW6KQulB",
+      "song_name": "93 'Til Infinity",
+      "timestamp": "Tue, 01 Aug 2023 00:00:00 GMT"
+    },
+    {
+      "album_id": "1fyVINvee2lHVYtQgYgJyp",
+      "album_name": "Sensiz Olmaz",
+      "artists": [
+        "Nil\u00fcfer"
+      ],
+      "duration": 213000,
+      "picture": "https://i.scdn.co/image/ab67616d0000b27389bfb53fdd490f0384d146e0",
+      "rating": 4,
+      "song_id": "4Q8RkSigphYoi9lFm5nFBW",
+      "song_name": "Ta Uzak Yollardan",
+      "timestamp": "Sun, 01 Jan 2023 00:00:00 GMT"
+    },
+    {
+      "album_id": "32wadIN0emxBanTLINlH08",
+      "album_name": "I Got Nothing",
+      "artists": [
+        "MEDUZA",
+        "Ferreck Dawn",
+        "Clementine Douglas"
+      ],
+      "duration": 203540,
+      "picture": "https://i.scdn.co/image/ab67616d0000b2735f6b4d60420bed37057115d4",
+      "rating": 4,
+      "song_id": "4yagkb6nJCRcfjUhaOVHTw",
+      "song_name": "I Got Nothing",
+      "timestamp": "Mon, 01 May 2023 00:00:00 GMT"
+    },
+    {
+      "album_id": "1q93Q9Xc7WIcJLNBgOIPBQ",
+      "album_name": "42",
+      "artists": [
+        "Diplo",
+        "Maren Morris"
+      ],
+      "duration": 175161,
+      "picture": "https://i.scdn.co/image/ab67616d0000b273dad2ee9a5770f4e66d13925f",
+      "rating": 4,
+      "song_id": "5PIhpG2ax06QpBLRqlYQql",
+      "song_name": "42",
+      "timestamp": "Sun, 01 Oct 2023 00:00:00 GMT"
+    },
+    {
+      "album_id": "6Inmb7W6DMZHPA1ne6y4dD",
+      "album_name": "Lights Out",
+      "artists": [
+        "NORRA",
+        "AVNT:GRD",
+        "ANY"
+      ],
+      "duration": 157272,
+      "picture": "https://i.scdn.co/image/ab67616d0000b273dad9ec31e47824f5df955765",
+      "rating": 4,
+      "song_id": "3aiaO0A0vgVn169PjymdBQ",
+      "song_name": "Lights Out",
+      "timestamp": "Wed, 01 Mar 2023 00:00:00 GMT"
+    },
+    {
+      "album_id": "57pFLWr0dbeDFLgwFWyakV",
+      "album_name": "Markakalite",
+      "artists": [
+        "BEGE"
+      ],
+      "duration": 126451,
+      "picture": "https://i.scdn.co/image/ab67616d0000b273b28a15b6385d12566a7f4c11",
+      "rating": 4,
+      "song_id": "2oGQjm4YLHU5roYaF2Mwn0",
+      "song_name": "Markakalite",
+      "timestamp": "Tue, 01 Aug 2023 00:00:00 GMT"
+    },
+    {
+      "album_id": "1x58rOMA6gcxJdrgzbGVTo",
+      "album_name": "Other Side",
+      "artists": [
+        "BUNT.",
+        "AVAION"
+      ],
+      "duration": 206884,
+      "picture": "https://i.scdn.co/image/ab67616d0000b273696131b29b49113b48925103",
+      "rating": 4,
+      "song_id": "74qKLdiiTnXNqh2Co21RlJ",
+      "song_name": "Other Side",
+      "timestamp": "Sun, 01 Jan 2023 00:00:00 GMT"
+    },
+    {
+      "album_id": "3NBivztC0hpwUNKeV7Hs6Z",
+      "album_name": "Emerald Skies",
+      "artists": [
+        "Nora En Pure"
+      ],
+      "duration": 186666,
+      "picture": "https://i.scdn.co/image/ab67616d0000b27307084df89a3237d4b1df3229",
+      "rating": 4,
+      "song_id": "6D11LKlEYTF9URakCVjhvO",
+      "song_name": "Emerald Skies",
+      "timestamp": "Thu, 01 Jun 2023 00:00:00 GMT"
+    }
+  ]
+}

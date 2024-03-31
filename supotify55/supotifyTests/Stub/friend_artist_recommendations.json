@@ -1,0 +1,68 @@
+{
+  "recommendations": [
+    {
+      "artist_id": "24DO0PijjITGIEWsO8XaPs",
+      "artist_name": "Nora En Pure",
+      "followers": 401806,
+      "genres": "deep house, electra, house, melodic house, progressive house, swiss pop",
+      "picture": "https://i.scdn.co/image/ab6761610000e5eb2d6db1d82461593938beef62",
+      "popularity": 59
+    },
+    {
+      "artist_id": "07XSN3sPlIlB2L2XNcTwJw",
+      "artist_name": "KISS",
+      "followers": 9136614,
+      "genres": "glam rock, hard rock, rock",
+      "picture": "https://i.scdn.co/image/ab6761610000e5eba3ebf1fa0da019df3d02cc1e",
+      "popularity": 70
+    },
+    {
+      "artist_id": "5tDjiBYUsTqzd0RkTZxK7u",
+      "artist_name": "Ben B\u00f6hmer",
+      "followers": 446420,
+      "genres": "melodic house",
+      "picture": "https://i.scdn.co/image/ab6761610000e5ebfaef530ff2054cc5166fc78e",
+      "popularity": 62
+    },
+    {
+      "artist_id": "1bpzpALZwOoKXzwMg2i8WB",
+      "artist_name": "Dirty South",
+      "followers": 223656,
+      "genres": "australian dance, dutch house, edm, electro house, pop dance, progressive electro house, progressive house",
+      "picture": "https://i.scdn.co/image/ab6761610000e5eb95854bf3f198aac24f162ea9",
+      "popularity": 45
+    },
+    {
+      "artist_id": "74xBVPWYoSf5pvo5IkePRO",
+      "artist_name": "\u015eebnem Ferah",
+      "followers": 1586273,
+      "genres": "turkish pop, turkish rock",
+      "picture": "https://i.scdn.co/image/ab6761610000e5ebe3c728daf2ff8af8a518239b",
+      "popularity": 59
+    },
+    {
+      "artist_id": "5p7f24Rk5HkUZsaS3BLG5F",
+      "artist_name": "Hailee Steinfeld",
+      "followers": 8932532,
+      "genres": "pop",
+      "picture": "https://i.scdn.co/image/ab6761610000e5eba961383967f3a3a54e794a15",
+      "popularity": 67
+    },
+    {
+      "artist_id": "2vf4pRsEY6LpL5tKmqWb64",
+      "artist_name": "Elderbrook",
+      "followers": 393063,
+      "genres": "uk dance",
+      "picture": "https://i.scdn.co/image/ab6761610000e5eb2d25adbc1590bb250bd3ee6c",
+      "popularity": 66
+    },
+    {
+      "artist_id": "4nknUpUYu4baxWwkunq81Z",
+      "artist_name": "Felix Raphael",
+      "followers": 9342,
+      "genres": "melodic house",
+      "picture": "https://i.scdn.co/image/ab6761610000e5eb080558a2567061b9f3066a06",
+      "popularity": 46
+    }
+  ]
+}

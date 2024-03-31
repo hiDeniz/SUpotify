@@ -1,0 +1,92 @@
+[
+  {
+    "artist_name": [
+      "Blondie"
+    ],
+    "picture": "https://i.scdn.co/image/ab67616d0000b2736d23211741238ed227699c9d",
+    "songLength": 215106,
+    "song_id": "4cQJ27R11K634x5qCOwKW5",
+    "song_name": "One Way Or Another - Remastered 2001"
+  },
+  {
+    "artist_name": [
+      "Radiohead"
+    ],
+    "picture": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+    "songLength": 208733,
+    "song_id": "5XuU9htN358NTMCcqRvfDV",
+    "song_name": "Bullet Proof ... I Wish I Was"
+  },
+  {
+    "artist_name": [
+      "Red Hot Chili Peppers"
+    ],
+    "picture": "https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517",
+    "songLength": 334666,
+    "song_id": "2aibwv5hGXSgw7Yru8IYTO",
+    "song_name": "Snow (Hey Oh)"
+  },
+  {
+    "artist_name": [
+      "U2"
+    ],
+    "picture": "https://i.scdn.co/image/ab67616d0000b273b7bea3d01f04e6d0408d2afe",
+    "songLength": 295515,
+    "song_id": "6ADSaE87h8Y3lccZlBJdXH",
+    "song_name": "With Or Without You"
+  },
+  {
+    "artist_name": [
+      "The Cardigans"
+    ],
+    "picture": "https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af",
+    "songLength": 230185,
+    "song_id": "6ZaiqbV2GfUtrUlhsu58fN",
+    "song_name": "Step On Me"
+  },
+  {
+    "artist_name": [
+      "Placebo"
+    ],
+    "picture": "https://i.scdn.co/image/ab67616d0000b273f05be6e0f6c59b1563b4e35e",
+    "songLength": 213800,
+    "song_id": "2Srd8Jgif3kc6ou6Z4pSYJ",
+    "song_name": "Every You Every Me"
+  },
+  {
+    "artist_name": [
+      "Oasis"
+    ],
+    "picture": "https://i.scdn.co/image/ab67616d0000b273d86a1e021e7acc7c07c7d668",
+    "songLength": 195000,
+    "song_id": "57bbMdaWpthoPTfuU9TFvQ",
+    "song_name": "Married With Children - Remastered"
+  },
+  {
+    "artist_name": [
+      "Weezer"
+    ],
+    "picture": "https://i.scdn.co/image/ab67616d0000b273a9def696688b8353ad8511ad",
+    "songLength": 196093,
+    "song_id": "1yKu2MhpwzDXXH2tzG6xoa",
+    "song_name": "Beverly Hills"
+  },
+  {
+    "artist_name": [
+      "The Clash"
+    ],
+    "picture": "https://i.scdn.co/image/ab67616d0000b273cd9d8bc9ef04014b6e90e182",
+    "songLength": 200480,
+    "song_id": "5jzma6gCzYtKB1DbEwFZKH",
+    "song_name": "London Calling - Remastered"
+  },
+  {
+    "artist_name": [
+      "Blur"
+    ],
+    "picture": "https://i.scdn.co/image/ab67616d0000b27394983882a5effd77742a9f52",
+    "songLength": 358773,
+    "song_id": "5eSllZgRWCIJsDTAqFRwQw",
+    "song_name": "Coffee & TV"
+  }
+]
